@@ -30,7 +30,7 @@ Las entradas se normalizan dividiendo por `escala = [100, 50]`. La misma variabl
 Requiere [uv](https://docs.astral.sh/uv/).
 
 ```bash
-git clone <URL-del-repositorio>
+git clone https://github.com/DiegoAlejandroU/neurona-riego-plantas.git
 cd neurona-riego-plantas
 uv sync
 uv run main.py
